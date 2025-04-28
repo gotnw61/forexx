@@ -1,0 +1,42 @@
+# MetaTrader 5 entegrasyonu
+MetaTrader5==5.0.37
+pandas==1.5.3
+numpy==1.24.3
+scipy==1.11.1
+
+# UI ve görselleştirme
+streamlit==1.24.0
+plotly==5.15.0
+matplotlib==3.7.2
+altair==5.0.1
+
+# Yapay zeka ve makine öğrenmesi
+torch==2.0.1
+scikit-learn==1.3.0
+
+# Teknik analiz
+ta-lib==0.4.26
+ta==0.10.2
+
+# Telegram entegrasyonu
+python-telegram-bot==13.15
+
+# Web scraping ve API
+requests==2.31.0
+beautifulsoup4==4.12.2
+tweepy==4.14.0
+investpy==1.0.8
+
+# Veritabanı
+sqlalchemy==2.0.19
+pymongo==4.4.1
+
+# Güvenlik
+cryptography==41.0.3
+python-dotenv==1.0.0
+
+# Yardımcı araçlar
+tqdm==4.65.0
+schedule==1.2.0
+joblib==1.3.1
+pytz==2023.3
